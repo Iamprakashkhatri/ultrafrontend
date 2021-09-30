@@ -22,6 +22,8 @@ backend/
 base/
 resources/
 manage.py
+requirements.txt
 runtime.txt
+Procfile
 
 celerybeat.pid

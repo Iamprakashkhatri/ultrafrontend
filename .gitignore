@@ -22,5 +22,6 @@ backend/
 base/
 resources/
 manage.py
+runtime.txt
 
 celerybeat.pid
